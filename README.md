@@ -1,5 +1,7 @@
 Hey this is me Umer Faisal and this is my Student Management
+
 Commands used in it:
+
 1. npm init -y
 2. tsc --init
 3. npm i inquirer
